@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,NodeJS,MongoDB and React**
 
-- 📫 How to reach me **jangidamit358@gmail.com**
+- 📫 How to reach me **https://amazing-ramanujan-cb3633.netlify.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FIZvWOxPdlZ-uYt_TpXUDNOpmlLp3gRF/view?usp=sharing](https://drive.google.com/file/d/1FIZvWOxPdlZ-uYt_TpXUDNOpmlLp3gRF/view?usp=sharing)
 
