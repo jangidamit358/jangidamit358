@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Jangid</h1>
-<h3 align="center">A passionate full stack web developer</h3>
-
+<!-- <h3 align="center">A passionate full stack web developer</h3> -->
+<img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png"/>
 - 🌱 I’m currently learning **full stack web development**
 
 - 💬 Ask me about **HTML,CSS,Javascript,NodeJS,MongoDB and React**
