@@ -2,9 +2,9 @@
 <p>A full-stack web development aspirant, disciplined and punctual in work. A self motivated and curious person interested in new technology. Always ready to learn new things.Looking forward to working in an energetic organization.</p>
 <!-- <h3 align="center">A passionate full stack web developer</h3> -->
 <img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png"/>
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m **software developer**
 
-- 💬 Ask me about **HTML,CSS,Javascript,NodeJS,MongoDB and React**
+- 💬 Ask me about **Java, Spring Boot, MySql, Webflux, Spring MVC, HTML, CSS, Javascript, NodeJS, MongoDB and React**
 
 - 📫 How to reach me **https://amit-jangid.netlify.app/**
 
