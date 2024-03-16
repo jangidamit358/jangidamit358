@@ -8,7 +8,7 @@ contribute to innovative projects in the industry.</p>
 
 - 💬 Ask me about **Java, Spring Boot, MySql, Webflux, Spring MVC, HTML, CSS, Javascript, NodeJS, MongoDB and React**
 
-- 📫 How to reach me **https://amit-jangid.netlify.app/**
+- 📫 How to reach me **https://amit-jangid-portfolio.vercel.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FIZvWOxPdlZ-uYt_TpXUDNOpmlLp3gRF/view?usp=sharing](https://drive.google.com/file/d/1_234wwTzZJ__cSF8nAU17pGBXqb9id4P/view)
 
