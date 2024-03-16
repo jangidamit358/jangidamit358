@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Jangid</h1>
-<p>A full-stack web development aspirant, disciplined and punctual in work. A self motivated and curious person interested in new technology. Always ready to learn new things.Looking forward to working in an energetic organization.</p>
+<p>A Software Developer with 2 years of experience,
+specializing in backend development to leverage expertise in software development and
+contribute to innovative projects in the industry.</p>
 <!-- <h3 align="center">A passionate full stack web developer</h3> -->
 <img src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png"/>
 - 🌱 I’m **software developer**
