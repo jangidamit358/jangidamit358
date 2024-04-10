@@ -10,7 +10,7 @@ contribute to innovative projects in the industry.</p>
 
 - 📫 How to reach me **https://amit-jangid-portfolio.vercel.app/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FIZvWOxPdlZ-uYt_TpXUDNOpmlLp3gRF/view?usp=sharing](https://drive.google.com/file/d/1_234wwTzZJ__cSF8nAU17pGBXqb9id4P/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fdGtqrhhVUeDQL0RNxvpLwqB42C6oLEA/view?usp=drive_link](https://drive.google.com/file/d/1fdGtqrhhVUeDQL0RNxvpLwqB42C6oLEA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
